@@ -1,10 +1,10 @@
-# 👋 Hello, I'm CodeTerror 👨‍💻
+## 👋 Hey there! I'm Saurav,
 
-Welcome to my GitHub profile! I'm a passionate developer, constantly learning and building cool things with code.
+I'm a web developer with a strong interest in building websites and understanding how the web works behind the scenes. I'm currently focused on learning the fundamentals of:
 
 ---
 
-## 🚀 My GitHub Overview
+## 🚀 Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
