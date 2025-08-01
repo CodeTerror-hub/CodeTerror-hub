@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Saurav,
+## 👋 Hey there! I'm Prince,
 
 I'm a web developer with a strong interest in building websites and understanding how the web works behind the scenes. I'm currently focused on learning the fundamentals of:
 
